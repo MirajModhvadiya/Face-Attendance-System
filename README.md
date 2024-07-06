@@ -1,0 +1,2 @@
+# Face-Attendance-System
+ A Face Attendance System is a technology that uses facial recognition techniques to automatically identify and record the attendance of individuals. This system typically involves capturing images or videos of faces, processing them using machine learning algorithms in Python, and then matching them against a database to determine identity. It's a modern and efficient way to manage attendance in various settings like schools, offices, or events.
